@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file id="2324973">
+    <contenthash>83fd102e34926a565275144d665d825208e26251</contenthash>
+    <contextid>207279</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>КНпоИТ.pdf</filename>
+    <userid>3</userid>
+    <filesize>2066559</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1636705234</timecreated>
+    <timemodified>1636705237</timemodified>
+    <source>КНпоИТ.pdf</source>
+    <author>Алла Юрьевна Шарова</author>
+    <license>cc-nc</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2324974">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>207279</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1636705234</timecreated>
+    <timemodified>1636705237</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2324983">
+    <contenthash>f59ed01e8b04d8b17d63c545c93887345d07086a</contenthash>
+    <contextid>207282</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>ТРIT.pdf</filename>
+    <userid>3</userid>
+    <filesize>2217269</filesize>
+    <mimetype>application/pdf</mimetype>
+    <status>0</status>
+    <timecreated>1636705277</timecreated>
+    <timemodified>1636705279</timemodified>
+    <source>ТРIT.pdf</source>
+    <author>Алла Юрьевна Шарова</author>
+    <license>cc-nc</license>
+    <sortorder>1</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2324984">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>207282</contextid>
+    <component>mod_resource</component>
+    <filearea>content</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>3</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1636705277</timecreated>
+    <timemodified>1636705279</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2346159">
+    <contenthash>68fbc546493ac2e86d91ae51e0d3c6276db1b109</contenthash>
+    <contextid>208595</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>ПЗ по дисциплине_введение в ПД.docx</filename>
+    <userid>47</userid>
+    <filesize>13526</filesize>
+    <mimetype>application/vnd.openxmlformats-officedocument.wordprocessingml.document</mimetype>
+    <status>0</status>
+    <timecreated>1637132270</timecreated>
+    <timemodified>1637132277</timemodified>
+    <source>ПЗ по дисциплине_введение в ПД.docx</source>
+    <author>Анастасия Ардалионовна Землякова</author>
+    <license>allrightsreserved</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+  <file id="2346160">
+    <contenthash>da39a3ee5e6b4b0d3255bfef95601890afd80709</contenthash>
+    <contextid>208595</contextid>
+    <component>mod_assign</component>
+    <filearea>introattachment</filearea>
+    <itemid>0</itemid>
+    <filepath>/</filepath>
+    <filename>.</filename>
+    <userid>47</userid>
+    <filesize>0</filesize>
+    <mimetype>$@NULL@$</mimetype>
+    <status>0</status>
+    <timecreated>1637132270</timecreated>
+    <timemodified>1638347298</timemodified>
+    <source>$@NULL@$</source>
+    <author>$@NULL@$</author>
+    <license>$@NULL@$</license>
+    <sortorder>0</sortorder>
+    <repositorytype>$@NULL@$</repositorytype>
+    <repositoryid>$@NULL@$</repositoryid>
+    <reference>$@NULL@$</reference>
+  </file>
+</files>

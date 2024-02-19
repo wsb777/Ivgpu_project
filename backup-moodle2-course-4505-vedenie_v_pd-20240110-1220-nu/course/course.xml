@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="4505" contextid="207273">
+  <shortname>Ведение в ПД</shortname>
+  <fullname>Введение в профессиональную деятельность</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;Курс предназначен для студентов первого курса направления подготовки 09.03.02 Информационные системы и технологии&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1661979600</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>262144000</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang>ru</lang>
+  <theme></theme>
+  <timecreated>1636704840</timecreated>
+  <timemodified>1663093837</timemodified>
+  <requested>0</requested>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <category id="362">
+    <name>Бакалавриат</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+</course>

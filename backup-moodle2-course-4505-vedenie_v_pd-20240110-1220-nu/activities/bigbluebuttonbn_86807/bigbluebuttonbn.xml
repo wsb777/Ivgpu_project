@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1769" moduleid="86807" modulename="bigbluebuttonbn" contextid="207285">
+  <bigbluebuttonbn id="1769">
+    <type>0</type>
+    <course>4505</course>
+    <name>Видеоконференция</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <meetingid>35fb0bf97cb6afbf5e6dd6c82fde7fdb07af0e45</meetingid>
+    <moderatorpass>GW8yDXwl*hY?</moderatorpass>
+    <viewerpass>:as5kV7,2l-X</viewerpass>
+    <wait>0</wait>
+    <record>1</record>
+    <recordallfromstart>0</recordallfromstart>
+    <recordhidebutton>0</recordhidebutton>
+    <welcome></welcome>
+    <voicebridge>0</voicebridge>
+    <openingtime>0</openingtime>
+    <closingtime>0</closingtime>
+    <timecreated>1636705321</timecreated>
+    <timemodified>0</timemodified>
+    <presentation></presentation>
+    <participants>[{"selectiontype":"all","selectionid":"all","role":"viewer"},{"selectiontype":"user","selectionid":"3","role":"moderator"}]</participants>
+    <userlimit>0</userlimit>
+    <recordings_html>1</recordings_html>
+    <recordings_deleted>1</recordings_deleted>
+    <recordings_imported>0</recordings_imported>
+    <recordings_preview>1</recordings_preview>
+    <clienttype>0</clienttype>
+    <muteonstart>0</muteonstart>
+    <completionattendance>0</completionattendance>
+    <completionengagementchats>0</completionengagementchats>
+    <completionengagementtalks>0</completionengagementtalks>
+    <completionengagementraisehand>0</completionengagementraisehand>
+    <completionengagementpollvotes>0</completionengagementpollvotes>
+    <completionengagementemojis>0</completionengagementemojis>
+    <logs>
+    </logs>
+  </bigbluebuttonbn>
+</activity>
